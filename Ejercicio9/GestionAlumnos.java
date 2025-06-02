@@ -1,3 +1,8 @@
+
+/*Crear una lista de tipo LinkedList 
+con la misma entidad que el ejercicio anterior. 
+Insertar valores y mostrarlos en pantalla.*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
