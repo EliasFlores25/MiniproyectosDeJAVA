@@ -21,4 +21,5 @@ public class QuitarEspaciosEnBlanco {
 
         scanner.close();
     }
+    
 }
